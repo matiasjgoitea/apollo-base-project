@@ -1,0 +1,30 @@
+{
+  "name": "apollo-base-project",
+  "version": "0.0.1",
+  "description": "Initial Apollo Integration with React - React Router - Webpack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasjgoitea/apollo-base-project.git"
+  },
+  "keywords": [
+    "Apollo",
+    "React",
+    "React-Router",
+    "Webpack"
+  ],
+  "author": "@matiasjgoitea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasjgoitea/apollo-base-project/issues"
+  },
+  "homepage": "https://github.com/matiasjgoitea/apollo-base-project#readme",
+  "dependencies": {
+    "apollo-boost": "^0.1.1",
+    "graphql": "^0.13.1",
+    "react-apollo": "^2.0.4"
+  }
+}
